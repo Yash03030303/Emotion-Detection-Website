@@ -1,0 +1,66 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.so
+*.dll
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Development and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
+*.log.*
+logs/
+
+# Uploads directory
+uploads/
+
+# Environment and configuration
+*.env
+.env.*
+config.py
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Docker files
+docker-compose*.yml
+*.dockerignore
+
+# Kubernetes files
+*.yaml~
+kube/
+
+# Documentation
+docs/_build/
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.bak
+*~
