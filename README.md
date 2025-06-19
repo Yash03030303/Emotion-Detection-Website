@@ -25,7 +25,6 @@ This **Emotion Detection Website** leverages machine learning models to classify
 - **TensorFlow/Keras** – Deep learning model for emotion classification.
 - **HTML/CSS/JavaScript** – Frontend interface.
 - **Docker** – Containerized deployment.
-- **GitHub Actions** – *(Optional)* CI/CD integration.
 
 ---
 
